@@ -3,6 +3,7 @@
 #include <stdlib.h>
 
 int solution(int array[], size_t array_len) {
+    
     int max = 0;
     int count = 0;
     int answer;
